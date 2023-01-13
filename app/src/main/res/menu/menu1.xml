@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+    <item
+
+        android:icon="@android:drawable/ic_media_previous"
+        android:id="@+id/atras"
+        android:title="Atras"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:icon="@android:drawable/ic_media_next"
+        android:id="@+id/siguiente"
+        android:title="Siguiente"
+        app:showAsAction="always"
+        />
+
+
+
+
+
+</menu>
